@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  background-color: gainsboro;
+}
+
+.totalBody {
+  margin: 250px auto;
+  width: 25%;
+  border: 1px solid rgb(12, 12, 12);
+  border-radius: 10px;
+  background-color: rgb(5, 14, 61);
+  padding: 20px;
+}
+
+
+input,
+#btnAddList {
+  border-radius: 5px;
+  height: 30px;
+  margin-bottom: 20px;
+  
+}
+
+input {
+  width: 75%;
+  margin-right: 35px;
+  font-size: 1.2em;
+  padding-left: 10px;
+}
+
+ p:first-letter {
+  text-transform: uppercase;
+}
+
+input::placeholder {
+  padding: 3px;
+}
+
+
+#btnAddList {
+  color: black;
+  width: 15%;
+  border: none;
+  background-color: pink;
+}
+
+.boxList {
+  margin: 0 auto 10px auto;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(161, 221, 255);
+}
+
+#printList div p {
+  display: inline-block;
+  width: 97%;
+  cursor: pointer;
+  user-select: none;
+  text-transform: capitalize;
+}
+
+.delete {
+  background: none;
+  border: none;
+  color: crimson;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.delete:hover {
+  transform: scale(110%);
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="D3-Progetto" />
+        <module name="D1-Esercizio (2)" />
+        <module name="D1-Esercizio" />
+        <module name="D2-Esercizio (1)" />
+        <module name="D3-Esercizio" />
+        <module name="D1-Esercizio (1)" />
+        <module name="D4-Esercizio" />
+        <module name="D2-Esercizio" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="D1-Esercizio" options="-parameters" />
+      <module name="D1-Esercizio (1)" options="-parameters" />
+      <module name="D1-Esercizio (2)" options="-parameters" />
+      <module name="D2-Esercizio" options="-parameters" />
+      <module name="D2-Esercizio (1)" options="-parameters" />
+      <module name="D3-Esercizio" options="-parameters" />
+      <module name="D4-Esercizio" options="-parameters" />
+    </option>
+  </component>
+</project>

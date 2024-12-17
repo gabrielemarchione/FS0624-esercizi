@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  text-align: center;
+}
+
+body {
+  background-color: #010101;
+}
+
+.totalBody {
+  padding: 50px;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+#tabellone {
+  width: 700px;
+  height: 630px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#cartelle {
+  width: 100%;
+  display: inline-block;
+}
+
+.cartella {
+  display: inline-block;
+  width: 350px;
+  height: 210px;
+  margin: 20px;
+}
+
+
+#btnRandomNumber {
+  background-color: crimson;
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  margin-left: 50px;
+}
+
+#btnBuy {
+  background-color: crimson;
+  width: 80px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+.divNumeri {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+  background-color: whitesmoke;
+}
+
+.divNumeri h4 {
+  display: inline-block;
+  font-size: 1.3em;
+  margin-top: 32%;
+  color: black;
+}
+
+input {
+  color: grey;
+  font-size: 1.3em;
+  width: 50px;
+}
+
+.divEstratti {
+  background-color: orangered;
+  
+}
+
+form {
+  margin-bottom: 50px;
+}
+
+.ultimo div {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.ultimo div p {
+  display: inline-block;
+  margin: 5px;
+}

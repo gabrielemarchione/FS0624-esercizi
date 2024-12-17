@@ -1,0 +1,45 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+body div,
+footer {
+  padding: 1rem;
+}
+
+footer {
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+
+.myHeading {
+  color: #ff00d6;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+.imageSize {
+  width: 30%;
+  height: 10vh;
+  object-fit: contain;
+}
+
+table td {
+  width: 20%;
+}

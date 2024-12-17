@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana1/D1-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana1/D2-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana1/D3-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana1/D4-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana2/D1-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana2/D2-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana2/D3-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana2/D4-Esercizio/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana3/D2-Esercizio/src/main/java/gabrielemarchione" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana3/D3-Esercizio/src/main/java/gabrielemarchione" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UNIT1/Settimana3/D4-Esercizio/src/main/java/gabrielemarchione" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,28 @@
+.text-small {
+  font-size: 0.5em !important;
+}
+
+
+.pointer {
+  cursor: pointer;
+}
+
+.zoom {
+  transition-duration: 0.3s;
+}
+
+.zoom:hover {
+  transform: scale(1.02);
+}
+
+.card-fix {
+  height: 350px !important;
+}
+
+.divImage {
+  height: 100px !important;
+}
+
+.img-fix img {
+  object-fit: contain;
+}
